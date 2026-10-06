@@ -1,7 +1,5 @@
 # Figures — Transforming
 
-Практическая работа по Kotlin на основе репозитория [ipetrushin/Figures](https://github.com/ipetrushin/Figures).
-
 ## Что реализовано
 
 - `Rect`, `Circle`, `Square` наследуются от абстрактного класса `Figure`;
